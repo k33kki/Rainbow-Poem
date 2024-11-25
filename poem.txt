@@ -7,8 +7,6 @@ Green
 Cyan
 Blue
 Some Unicorn changes
-
 Some Ponny changes
-
 Make Some changes
-
+Some new changes
